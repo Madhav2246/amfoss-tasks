@@ -1,0 +1,6 @@
+name: map_locater
+description: A new Flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
+    google_maps_flutter: ^2.0.10
