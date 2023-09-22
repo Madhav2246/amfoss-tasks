@@ -1,0 +1,37 @@
+nav ul { font-style: courier new;
+    font-color: rgb(2, 62, 7);
+    font-size: larger;
+    padding: 60px;
+    text-align: center;
+}
+    
+
+
+nav li {
+    font-size: larger;
+}
+
+nav a { font: monospace;
+    text-decoration:color;
+    color: darkviolet;
+}
+
+section {
+    padding: 20px;
+}
+
+.album {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.album img {
+    max-width: 100%;
+}
+
+footer {
+    background-color: rgb(195, 13, 176);
+    color: rgb(231, 100, 7);
+    text-align: center;
+    padding : 10px;
+}
