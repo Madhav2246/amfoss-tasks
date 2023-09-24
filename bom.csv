@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"M3",1,"16 DC Motor with Encoder"
+"R4",1," Photoresistor"
+"U1",1," Arduino Uno R3"
+"U4",1,"MCP23008-based, 32 LCD 16 x 2 (I2C)"
